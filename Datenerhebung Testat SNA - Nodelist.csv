@@ -1,0 +1,33 @@
+id,name_short,name,sex,birth,position,education,subject,party,religion,kids,twitter,facebook,youtube,instagram,type
+ck,Kuehn,Christian Kuehn,1,1979,1,3,1,gruene,evangelisch,3,4830,97,35,1663,0
+co,Oezdemir,Cem Oezdemir,1,1965,2,2,3,gruene,muslimisch,2,317745,162573,,105000,0
+fb,Brantner,Franziska Brantner,2,1979,1,1,1,gruene,,1,14.054,2747,26,4478,0
+ft,Toncar,Florian Toncar,1,1979,1,1,2,fdp,evangelisch,3,8597,4478,99,3072,0
+jb,Brandenburg,Jens Brandenburg,1,1986,1,1,3,fdp,,0,5409,,,3332,0
+mt,Theurer,Michael Theurer,1,1967,1,2,4,fdp,evangelisch,2,8481,27913,0,3745,0
+rs,Schwarzeluehr-Sutter,Rita Schwarzeluehr-Sutter,2,1962,1,2,4,spd,katholisch,2,4253,2941,0,1536,0
+bs,Strasser,Benjamin Strasser,1,1987,1,4,2,gruene,katholisch,0,5815,3372,287,3935,0
+tl,Lindner,Tobias Lindner,1,1982,2,1,4,gruene,,0,10561,4920,,3610,0
+aa,,Auswaertiger Ausschuss,,,,,,,,,,,,,1
+aag,,Ausschuss fuer auswaertige Angelegenheiten,,,,,,,,,,,,,1
+afsj,,"Ausschuss fuer Familien, Senioren, Frauen und Jugend",,,,,,,,,,,,,1
+av,,Ausschuss fuer Verkehr und digitale Infrastruktur,,,,,,,,,,,,,1
+awe,,Ausschuss für Wirtschaft und Energie,,,,,,,,,,,,,1
+bfdp,,Bundesvorstand FDP,,,,,,,,,,,,,1
+bum,,Bundesumweltministerium,,,,,,,,,,,,,1
+efa,,EU-Parlament Fraktion Gruene/EFA,,,,,,,,,,,,,1
+eha,,Europaeischer Haushaltsausschuss,,,,,,,,,,,,,1
+eu,,Europa-Union,,,,,,,,,,,,,1
+fdp,,FDP-Bundestagsfraktion,,,,,,,,,,,,,1
+gsf,,Gesellschaft zum Studium strukturpolitischer Fragen,,,,,,,,,,,,,1
+ha,,Haushaltsausschuss,,,,,,,,,,,,,1
+hbs,,Heinrich-Boell-Stiftung,,,,,,,,,,,,,1
+juli,,Junge Liberale,,,,,,,,,,,,,1
+kw,,Kreditanstalt fuer Wiederaufbau,,,,,,,,,,,,,1
+lfdp,,Landesvorstand FDP,,,,,,,,,,,,,1
+lg,,Landesvorstand Gruene,,,,,,,,,,,,,1
+sefep,,Smart Energy for Europe Platform GmbH,,,,,,,,,,,,,1
+ths,,Theodor-Heuss-Stiftung,,,,,,,,,,,,,1
+ua,,Untersuchungsausschuss,,,,,,,,,,,,,1
+um,,Universität Mannheim,,,,,,,,,,,,,1
+ut,,Universität Tuebingen,,,,,,,,,,,,,1

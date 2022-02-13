@@ -4,10 +4,10 @@ erstellt von Hanna Bekele (hb070@hdm-stuttgart.de)
 ## Inhalt
 - Edges.csv (Edgelist)
 - Nodes.csv (Nodelist)
-- Codebuch.md (Codierung der Datens�tze)
+- Codebuch.md (Codierung der Datensätze)
 
 ## Ursprung und Datenerhebung
-Ich habe den Datensatz aus Wikipedia, Abgeordnetenwatch, Bundestag.de und den jeweiligen Social-Media-Kan�len der Politker:innen erhoben.
+Ich habe den Datensatz aus Wikipedia, Abgeordnetenwatch, Bundestag.de und den jeweiligen Social-Media-Kanälen der Politker:innen erhoben.
 
 Das Netzwerk ist ein *gerichtetes two-mode Akteursnetzwerk*.
 
@@ -21,11 +21,11 @@ codiert nach:
 
 	1 = Ministerium
 	2 = politische Funktion (in Ausschuessen, Gremien, Partei)
-	3 = Mitgliedschaften in NGOs, Stiftungen, Gedenkstätten
+	3 = Mitgliedschaften in NGOs, Stiftungen, GedenkstÃ¤tten
 	4 = Beteiligung an Unternehmen
 	5 = Stipendien
 	6 = Berufstaetigkeiten
-	7 = Studien- und längere Aufenthalte im In- und Ausland
+	7 = Studien- und laengere Aufenthalte im In- und Ausland
 	*year*	das Jahr der Verbindung
 
 
@@ -38,7 +38,7 @@ eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.
 
 **short_name**
 
-Nachnahme des/der Politiker:in, Abk�rzung des Organisationsnamens
+Nachnahme des/der Politiker:in, Abkürzung des Organisationsnamens
 
 **name**
 
@@ -54,7 +54,7 @@ hoechster Bildungsabschluss, numerische Codierung: 1 = Promotion, 2 = Diplom,  3
 
 **position**
 
-jetzige Position, Codierung: 1 = Staatssekretär:in, 2 = Minister:in
+jetzige Position, Codierung: 1 = StaatssekretÃ¤r:in, 2 = Minister:in
 
 **subject**
 

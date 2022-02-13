@@ -33,51 +33,41 @@ codiert nach:
 # NODE-Attribute
 
 **id**
-
-eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  
+	eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  
 
 **short_name**
-
-Nachnahme des/der Politiker:in, Abkürzung des Organisationsnamens
+	Nachnahme des/der Politiker:in, Abkürzung des Organisationsnamens
 
 **name**
-
-Vollstaendiger Name des/der Politiker:in
+	Vollstaendiger Name des/der Politiker:in, der Organisation
 
 **sex**
-
-Geschlecht, numerische Codierung: 1 = male und 2 = female
+Geschlecht, numerische Codierung:
+1 = male
+2 = female
 
 **education**
-
 hoechster Bildungsabschluss, numerische Codierung: 1 = Promotion, 2 = Diplom,  3 = Staatsexamen, 4 = Magister
 
 **position**
-
 jetzige Position, Codierung: 1 = StaatssekretÃ¤r:in, 2 = Minister:in
 
 **subject**
-
 Fachrichtung bei Studium/Promotion, Codierung: 1= Politik, 2 = Recht, 3 = Wirtschaft, 4 = Soziales
 
 **party**
-
 Parteizugehoerigkeit
 
 **religion**
-
 Religion
 
 **kids**
-
 Anzahl der Kinder
 
 **twitter**
-
 Anzahl Twitter-Follower:innen
 
 **facebook**
-
 Anzahl Facebook-Follower:innen
 
 **youtube**

@@ -32,60 +32,78 @@ codiert nach:
 	
 # NODE-Attribute
 
-**id**
+**id** <br>
 eindeutige Identifikation jedes einzelnen Knotens (vertex), der erfasst wird.  
+<br>
 
-**short_name**
+**short_name**<br>
 Nachnahme des/der Politiker:in, Abkürzung des Organisationsnamens
+<br>
 
-**name**
+**name**<br>
 Vollstaendiger Name des/der Politiker:in, der Organisation
+<br>
 
-**sex**
-Geschlecht
-1 = male
-2 = female
+**sex**<br>
+Geschlecht <br>
+1 = male <br>
+2 = female <br>
+<br>
 
-**education**
-hoechster Bildungsabschluss
-1 = Promotion
-2 = Diplom
-3 = Staatsexamen
-4 = Magister
+**education** <br>
+hoechster Bildungsabschluss <br>
+1 = Promotion <br>
+2 = Diplom <br>
+3 = Staatsexamen <br>
+4 = Magister <br>
+<br>
 
-**position**
-jetzige Position
-1 = Staatssekretear:in
-2 = Minister:in
+**position** <br>
+jetzige Position <br>
+1 = Staatssekretear:in <br>
+2 = Minister:in <br>
+<br>
 
-**subject**
-Fachrichtung bei Studium/Promotion
-1= Politik
-2 = Recht
-3 = Wirtschaft
-4 = Soziales
+**subject** <br>
+Fachrichtung bei Studium/Promotion <br>
+1= Politik <br>
+2 = Recht <br>
+3 = Wirtschaft <br>
+4 = Soziales <br>
+<br>
 
-**party**
-Parteizugehoerigkeit
+**party** <br>
+Parteizugehoerigkeit <br>
+<br>
 
-**religion**
-Religion
+**religion** <br>
+Religion <br>
+<br>
 
-**kids**
-Anzahl der Kinder
+**kids** <br>
+Anzahl der Kinder <br>
+<br>
 
-**twitter**
-Anzahl Twitter-Follower:innen
+**twitter**<br>
+Anzahl Twitter-Follower:innen <br>
+<br>
 
-**facebook**
-Anzahl Facebook-Follower:innen
+**facebook**<br>
+Anzahl Facebook-Follower:innen <br>
+<br>
 
-**youtube**
+**youtube**<br>
+Anzahl Youtube-Abonnent:innen <br>
+<br>
 
-Anzahl Youtube-Abonnent:innen
+**instagram**<br>
+Anzahl der Instagram-Follower:innen <br>
+<br>
 
-**type**
-
-Art des Knotens, Codierung: 0 = Person, 1 = Organisation
+**type**<br>
+Art des Knotens<br>
+0 = Person<br>
+1 = Organisation <br>
+<br>
 	
 ##
